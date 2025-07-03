@@ -1,61 +1,25 @@
 # 👋 Hi, I'm Moshe Yakubov
 
-I'm a passionate backend developer and computer science student, currently diving deep into Python, Django, and modern web technologies.
-
-I love building clean, scalable, and meaningful applications — especially those that solve real-world problems or help people connect, learn, and create.  
-Currently working on open-source and full-stack projects using **Django**, **React**, and **PostgreSQL**.
-<br/>
+I'm a backend developer and computer science student, passionate about building scalable, real-world applications. I specialize in **Python**, **Django**, and **Node.js**, with a focus on clean architecture and modern tools.
 <br/>
 
-## 🧠 Skills & Technologies
 
-### 💬 Languages
-- 🐍 Python
-- ☕ Java
-- ⚙️ Go (Golang)
-- 📜 JavaScript (ES6+)
+## 🧠 Tech Stack
 
-
-
-### 💻 Backend
-- 🧰 Django, Django REST Framework
-- ⚡ FastAPI
-- 🔗 Express.js
-- 🟩 Node.js
-- 🔐 JWT Auth, bcrypt
+**Languages:** Python 🐍 · Java ☕ · Go ⚙️ · JavaScript 📜  
+**Backend:** Django · DRF · FastAPI · Node.js · Express · JWT  
+**Frontend:** React.js · Tailwind CSS · Material UI · HTML/CSS  
+**Databases:** PostgreSQL 🐘 · MongoDB 🍃  
+**Tools:** Linux 🐧 · Docker 🐳 · Git · AWS · Render · VSCode
+<br/>
 
 
 
-### 🌐 Frontend
-- ⚛️ React.js (Hooks, Router)
-- 📦 Material UI, Tailwind CSS
-- 🧱 HTML5, CSS3, JavaScript
+## 🚀 Experience Highlights
 
-
-
-### 🗃️ Databases
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-
-
-
-### ☁️ DevOps & Tools
-- 🐧 Linux
-- 🐳 Docker
-- ☁️ Render, AWS (EC2, S3)
-- 🔧 Git & GitHub
-- 💻 VSCode, PyCharm, IntelliJ
-
-
-
-## 🚀 Full-Stack Experience
-
-- MERN Stack: **MongoDB, Express.js, React.js, Node.js**
-- Django + React full-stack apps
-- RESTful API development
-- Authentication & Authorization
-- Scalable backend systems
-- Deployment and CI/CD fundamentals
+- ⚙️ Node.js & Django backend projects  
+- 🔐 Auth, REST APIs, and scalable architectures  
+- ☁️ Deployments on AWS & Render
 
 
 
