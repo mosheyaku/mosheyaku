@@ -1,25 +1,21 @@
 # 👋 Hi, I'm Moshe Yakubov
 
-I'm a backend developer and computer science student, passionate about building scalable, real-world applications. I specialize in **Python**, **Django**, and **Node.js**, with a focus on clean architecture and modern tools.
+Backend developer and CS student, building scalable apps with **Python**, **Django**, and **Node.js**.
 <br/>
 
 
 ## 🧠 Tech Stack
 
-**Languages:** Python 🐍 · Java ☕ · Go ⚙️ · JavaScript 📜  
-**Backend:** Django · DRF · FastAPI · Node.js · Express · JWT  
-**Frontend:** React.js · Tailwind CSS · Material UI · HTML/CSS  
-**Databases:** PostgreSQL 🐘 · MongoDB 🍃  
-**Tools:** Linux 🐧 · Docker 🐳 · Git · AWS · Render · VSCode
+**Languages:** 🐍 Python · ☕ Java · ⚙️ Go · 📜 JavaScript  
+**Backend:** 🧰 Django · ⚡ FastAPI · 🔗 Express · 🟩 Node.js · 🔐 JWT  
+**Frontend:** ⚛️ React · 📦 Tailwind · 🧱 HTML/CSS  
+**Databases:** 🐘 PostgreSQL · 🍃 MongoDB  
+**Tools:** 🐧 Linux · 🐳 Docker · 🔧 Git · ☁️ AWS · 💻 VSCode
 <br/>
 
 
+## 🚀 Highlights
 
-## 🚀 Experience Highlights
-
-- ⚙️ Node.js & Django backend projects  
-- 🔐 Auth, REST APIs, and scalable architectures  
-- ☁️ Deployments on AWS & Render
-
-
-
+- ⚙️ Django & Node.js backends  
+- 🔐 Auth & REST APIs  
+- ☁️ Deployments (AWS, Render)
