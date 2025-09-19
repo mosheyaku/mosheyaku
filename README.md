@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moshe Yakubov
+# Hi, I'm Moshe Yakubov 👋
 
 Backend developer and CS student, building scalable apps with **Python**, **Django**, and **Node.js**.
 <br/>
